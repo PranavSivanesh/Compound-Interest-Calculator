@@ -3,9 +3,13 @@ A simple compound interest calculator made using C. The program follows the univ
 
 [A = P(1+ (r/n))^nt ]  
 A - Amount
+
 P - Principal
+
 r - rate of interest (%)
+
 n - number of times interest is compounded per year
+
 t - time in years
 
 How to compile
