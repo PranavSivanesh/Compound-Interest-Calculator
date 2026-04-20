@@ -1,7 +1,7 @@
 # Compund Interest Calculator
 A simple compound interest calculator made using C. The program follows the universal formula used to calculate the Amount.
 
-A = P(1+ (r/n))^nt
+[A = P(1+ (r/n))^nt ]  
 A - Amount
 P - Principal
 r - rate of interest (%)
